@@ -1,8 +1,8 @@
-https://rostec.ru/
-https://scloud.rostec.ru/login
-https://vcs.rostec.ru/
-https://lk.rostec.ru/Account/LogIn?ReturnUrl=%2F
-http://ias.rostec.ru/
-https://smi.rostec.ru/user
-http://v1.rostec.ru/
-https://vks3.rostec.ru/
+https://online.vtb.ru
+https://online.sberbank.ru/CSAFront/index.do#/
+https://online.gpb.ru/login
+https://alfabank.ru/everyday/online/
+https://alfabank.ru/everyday/online/
+https://online.rshb.ru
+https://online.sovcombank.ru/
+https://online.mkb.ru/
