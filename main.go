@@ -59,7 +59,7 @@ func (d *DDoS) Run() {
 				fmt.Println("loading", randomUrl)
 				success, total := d.Result()
 				fmt.Println("success / total:", success, " / ", total)
-				if total > 400 && float64(success / total) < float64(0.3){
+				if total > 400 && (float64(success / total) < float64(0.3)){
 					fmt.Println("!!! Changing tor circuit !!!")
 					restart()
 					d.successRequest = 0
